@@ -10,8 +10,8 @@ Welcome to the public architecture and documentation repository for **ChronoTask
 An enterprise-grade engine deserves an intuitive, modern workspace. Below are interface captures showcasing the design language, clean layout constraints, and responsive forms built for the ChronoTask dashboard.
 
 <p align="center">
-  <img src="assets/task_screen.png" width="32%" alt="ChronoTask Core Dashboard" />
   <img src="assets/calender_screen.png" width="32%" alt="Deadlines Heatmap Dashboard" />
+  <img src="assets/task_screen.png" width="32%" alt="ChronoTask Core Dashboard" />
   <img src="assets/settings_screen.png" width="32%" alt="OEM Whitelist Configurator" />
 </p>
 
